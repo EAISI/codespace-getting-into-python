@@ -4,7 +4,7 @@
     "dockerfile": "Dockerfile",
     "args": {
       "BUILD_ON_IMAGE": "glcr.b-data.ch/python/base",
-      "PYTHON_VERSION": "latest",
+      "PYTHON_VERSION": "3.11",
       "USE_ZSH_FOR_ROOT": "unset-to-use-bash",
       "SET_LANG": "en_US.UTF-8",
       "SET_TZ": "Etc/UTC"

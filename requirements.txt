@@ -1,0 +1,19 @@
+altair >= 5.1
+black >=23.10
+ipykernel >= 6.25
+ipywidgets >= 8.1
+jupyter
+pandas >= 2.0
+pycaret >= 3.3
+pygwalker
+# ppscore == 1.3.0    local install due to pandas, scikit-learn < 2.0
+requests >= 2.31
+shap
+seaborn
+scikit-learn >= 1.4
+vega-datasets
+vegafusion
+vegafusion-python-embed
+vl-convert-python
+ydata-profiling >= 4.6
+xgboost
