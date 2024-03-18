@@ -1,0 +1,3 @@
+.venv/
+*.wal
+.DS_Store

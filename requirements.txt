@@ -1,7 +1,10 @@
 altair >= 5.1
 black >=23.10
+duckdb ~= 0.10
+duckdb-engine
 ipykernel >= 6.25
 ipywidgets >= 8.1
+jupysql
 jupyter
 pandas >= 2.0
 pycaret >= 3.3
@@ -11,6 +14,7 @@ requests >= 2.31
 shap
 seaborn
 scikit-learn >= 1.4
+umap-learn
 vega-datasets
 vegafusion
 vegafusion-python-embed
