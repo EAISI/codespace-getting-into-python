@@ -6,8 +6,8 @@ Base Python 3.11 Dev Container & Codespace for instruction purposes. Uses https:
 ## Getting started
 
 - [ ] Launch Dev Container or Codespace
-- [ ] Open terminal and execute `pip install -r requirements.txt`
 - [ ] Open `penguins.ipynb` and you can start coding
+- [ ] Open `introduction-to-sql/getting-into-sql.ipynb` and you can practice SQL with the Presidents database
 
 ## Further reading
 
