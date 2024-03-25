@@ -63,3 +63,6 @@ sed -i "s/plugins=(git)/plugins=(docker docker-compose git git-lfs pip screen tm
 
 # Remove old .zcompdump files
 rm -f "$HOME"/.zcompdump*
+
+# install Python dependencies
+pip install -r requirements.txt
