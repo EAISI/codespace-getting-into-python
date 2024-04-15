@@ -1,13 +1,17 @@
-# codespace-introduction-track
+# Codespace for getting into Python
 
-Base Python 3.11 Dev Container & Codespace for instruction purposes. Uses https://github.com/b-data/data-science-devcontainers. See the links below on how to use this on your local machine (VS Dev Container) or on GitHub Codespaces.
+This is a template repository for a [data science devcontainer](https://github.com/b-data/data-science-devcontainers) based on Python 3.11.
 
+See the links below on how to use this on your local machine (VS Dev Container) or on GitHub Codespaces.
 
 ## Getting started
 
-- [ ] Launch Dev Container or Codespace
-- [ ] Open `penguins.ipynb` and you can start coding
-- [ ] Open `introduction-to-sql/getting-into-sql.ipynb` and you can practice SQL with the Presidents database
+### In GitHub
+Launch the codespace directly from GitHub, using the green `code` button. Click the `Codespaces` tab and select `create codespace`.
+
+### In VS Code on you local machine
+Clone the respository and open the folder in VS Code. You will be prompted whether you want to open the folder in a devcontainer.
+
 
 ## Further reading
 
